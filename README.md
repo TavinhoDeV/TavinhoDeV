@@ -1,7 +1,7 @@
 <h2 align="center">Languages</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,js,ts,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=cs,js,ts,html,css,sql,python" />
 </p>
 
 <h2 align="center">Backend</h2>
