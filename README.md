@@ -1,23 +1,23 @@
 <h2 align="center">Languages</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,cs,java,kotlin,py,lua,cpp,js" />
+  <img src="https://skillicons.dev/icons?i=cs,js,ts,html,css,sql" />
 </p>
 
-<h2 align="center">Technologies</h2>
+<h2 align="center">Backend</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,aws,gcp,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,nestjs" />
 </p>
 
-<h2 align="center">Frameworks</h2>
+<h2 align="center">Database</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,dotnet,spring,django,fastapi,react,vue,vite" />
+  <img src="https://skillicons.dev/icons?i=sqlserver,mysql,postgres,mongodb" />
 </p>
 
-<h2 align="center">Database Management Systems </h2>
+<h2 align="center">Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,azure,vscode" />
 </p>
