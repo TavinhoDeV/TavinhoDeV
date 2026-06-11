@@ -19,5 +19,5 @@
 <h2 align="center">Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,git,github,docker,azure,vscode" />
+  <img src="https://skillicons.dev/icons?i=aws,git,github,docker,azure,vscode,next.js" />
 </p>
