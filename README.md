@@ -21,3 +21,5 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,git,github,docker,azure,vscode,next.js" />
 </p>
+
+<h2 align="center">Certificates</h2>
