@@ -23,3 +23,7 @@
 </p>
 
 <h2 align="center">Certificates</h2>
+
+<p align="center">
+  <img src="/Downloads" />
+</p>
