@@ -51,9 +51,16 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TavinhoDeV&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TavinhoDeV&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=TavinhoDeV&theme=github-dark-blue&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/239120/TavinhoDeV" alt="Contribution chart" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/TavinhoDeV?style=for-the-badge&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/directory-file-count/TavinhoDeV/TavinhoDeV?style=for-the-badge&label=Files" />
+</p>
 ---
 <p align="center">💬 Open to conversations, feedback, and opportunities!</p>
