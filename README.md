@@ -53,7 +53,10 @@
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com/?user=TavinhoDeV&theme=github-dark-blue&hide_border=true" />
 </p>
-
+## 🔥 My Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=TavinhoDeV&theme=dark&hide_border=false" alt="GitHub streak" />
+</p>
 <p align="center">
   <img src="https://ghchart.rshah.org/239120/TavinhoDeV" alt="Contribution chart" />
 </p>
