@@ -49,18 +49,11 @@
 | **FinanceTracker** | Personal finance management ecosystem | C# |
 | **Face Mask Detection** | Mask detection using computer vision | Python |
 
-## 📊 GitHub Stats
+## 🎮 GitHub Stats
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com/?user=TavinhoDeV&theme=github-dark-blue&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TavinhoDeV/TavinhoDeV/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TavinhoDeV/TavinhoDeV/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/TavinhoDeV/TavinhoDeV/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/239120/TavinhoDeV" alt="Contribution chart" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/TavinhoDeV?style=for-the-badge&logo=github&label=Followers" />
-  <img src="https://img.shields.io/github/directory-file-count/TavinhoDeV/TavinhoDeV?style=for-the-badge&label=Files" />
-</p>
----
-<p align="center">💬 Open to conversations, feedback, and opportunities!</p>
