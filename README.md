@@ -13,13 +13,6 @@
 
 ---
 
-## 👨‍💻 Sobre mim
-
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas na **Facens**
-- 💼 Atuo em ambiente corporativo de TI, o que me dá vivência com suporte, acessos e infraestrutura
-- 🎯 Foco em **desenvolvimento back-end**, APIs REST e modelagem de banco de dados
-- 🚀 Estou em busca da minha primeira oportunidade como desenvolvedor
-
 ## 🛠️ Tecnologias
 
 **Back-end**
@@ -49,8 +42,7 @@
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [AmparaPet](https://github.com/TavinhoDeV/AmparaPet) | Sistema de gestão do ciclo de vida de animais resgatados: resgate, triagem, tratamento e adoção | Java, Spring Boot, React, PostgreSQL, Docker |
-
-> Adicione aqui os outros projetos seus que quiser destacar.
+| [FinanceTrackerApi](https://github.com/TavinhoDeV/Finance-Tracker-Api) | A personal finance management REST API built with Clean Architecture + CQRS + MediatR in ASP.NET Core 8.|
 
 ## 📊 GitHub Stats
 
