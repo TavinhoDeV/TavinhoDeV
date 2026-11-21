@@ -42,7 +42,7 @@
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [AmparaPet](https://github.com/TavinhoDeV/AmparaPet) | Sistema de gestão do ciclo de vida de animais resgatados: resgate, triagem, tratamento e adoção | Java, Spring Boot, React, PostgreSQL, Docker |
-| [FinanceTrackerApi](https://github.com/TavinhoDeV/Finance-Tracker-Api) | A personal finance management REST API built with Clean Architecture + CQRS + MediatR in ASP.NET Core 8.|
+| [FinanceTrackerApi](https://github.com/TavinhoDeV/Finance-Tracker-Api) | A personal finance management | C#, ASP.NET Core 8. |
 
 ## 📊 GitHub Stats
 
