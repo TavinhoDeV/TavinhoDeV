@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Otávio 👋</h1>
 
 <p align="center">
-  Desenvolvedor Back-end Júnior | C# · ASP.NET Core · Java · Azure<br>
+  Developer Back-end | C# · ASP.NET Core · Java · Azure<br>
   Sorocaba, SP 🇧🇷
 </p>
 
@@ -51,6 +51,3 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TavinhoDeV&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-## 📫 Contato
-
-- LinkedIn: [otavioalmeida17](https://www.linkedin.com/in/otavioalmeida17/)
